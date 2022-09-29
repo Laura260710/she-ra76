@@ -1,0 +1,12 @@
+#imagem1 , #imagem2 {
+ width: 1000px;
+padding: 50px;
+}
+
+body{
+    text-align: center;
+}
+
+.logo{
+    width: 50px;;
+  }
